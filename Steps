@@ -1,5 +1,7 @@
 # Installer_Drupal_10
 
+https://www.drupal.org/download
+
 Type this Command line in this path C:\xampp\htdocs <br>
 composer create-project drupal/recommended-project:10.0.0 "name project"
 
