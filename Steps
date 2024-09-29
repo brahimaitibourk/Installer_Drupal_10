@@ -17,5 +17,6 @@ cd web
 #To run a PHP web server <br>
 php -S localhost:8000
 
-#Installer Admin Toolbar
+#Installer Admin Toolbar <br>
 composer require 'drupal/admin_toolbar:^3.5'
+To activate it, go to Back office and Extension write   the name in Search it and activate it
