@@ -17,3 +17,5 @@ cd web
 #To run a PHP web server <br>
 php -S localhost:8000
 
+#Installer Admin Toolbar
+composer require 'drupal/admin_toolbar:^3.5'
